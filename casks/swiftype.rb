@@ -1,6 +1,6 @@
 cask "swiftype" do
   version '0.0.1'
-  sha256 "4a1162f6066e6daa030e4c7bb135297d8224fc71d54a5a23c8f1bbec921f3a0f"
+  sha256 "2500fa1faaadd03e7f97037919bd57a77227a9305ec0fc3b9a1a19314c22cf5f"
 
   url "https://github.com/ikiet/homebrew-swiftype/releases/download/v#{version}/Swiftype.zip"
   name "Swiftype"
