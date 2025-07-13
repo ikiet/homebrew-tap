@@ -1,8 +1,8 @@
 cask "swiftype" do
-  version '0.0.1'
-  sha256 "2500fa1faaadd03e7f97037919bd57a77227a9305ec0fc3b9a1a19314c22cf5f"
+  version '0.0.2'
+  sha256 "sha256:35765cb7bb52c1997438453313760eeb50d86b61da17b3e1e71a7c2c283bc3ed"
 
-  url "https://github.com/ikiet/homebrew-swiftype/releases/download/v#{version}/Swiftype.zip"
+  url "https://github.com/ikiet/homebrew-swiftype/releases/download/v#{version}/swiftype-mac.tar.gz"
   name "Swiftype"
   desc "Swiftype is an input source switcher for macOS"
   homepage "https://github.com/ikiet/homebrew-swiftype"
